@@ -82,5 +82,26 @@
   <ItemGroup>
     <None Include="Resources\1200px-Series_circuit.svg.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DIVHsEKGRdebLPz14Avx_img88.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prob22.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seriescircuit.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resistor_series2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\res50.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4xYyj.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
