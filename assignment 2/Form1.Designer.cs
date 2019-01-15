@@ -149,11 +149,11 @@
             // 
             // tabControl1
             // 
-            this.tabControl1.Controls.Add(this.tabPage1);
-            this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Controls.Add(this.tabPage3);
+            this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage4);
             this.tabControl1.Controls.Add(this.tabPage5);
+            this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Controls.Add(this.tabPage6);
             this.tabControl1.Controls.Add(this.tabPage7);
             this.tabControl1.Controls.Add(this.tabPage8);
@@ -183,7 +183,7 @@
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(768, 409);
             this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "series";
+            this.tabPage1.Text = "series 3";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // label8
@@ -303,7 +303,7 @@
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage2.Size = new System.Drawing.Size(768, 409);
             this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "parallel";
+            this.tabPage2.Text = "parallel 2";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // label12
@@ -461,7 +461,7 @@
             this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage4.Size = new System.Drawing.Size(768, 409);
             this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "series 3";
+            this.tabPage4.Text = "series 4";
             this.tabPage4.UseVisualStyleBackColor = true;
             // 
             // label22
@@ -576,7 +576,7 @@
             this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage5.Size = new System.Drawing.Size(768, 409);
             this.tabPage5.TabIndex = 4;
-            this.tabPage5.Text = "series 4";
+            this.tabPage5.Text = "series 5";
             this.tabPage5.UseVisualStyleBackColor = true;
             // 
             // label29
@@ -704,7 +704,7 @@
             this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage6.Size = new System.Drawing.Size(768, 409);
             this.tabPage6.TabIndex = 5;
-            this.tabPage6.Text = "parallel 2";
+            this.tabPage6.Text = "parallel 3";
             this.tabPage6.UseVisualStyleBackColor = true;
             // 
             // label34
@@ -801,7 +801,7 @@
             this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage7.Size = new System.Drawing.Size(768, 409);
             this.tabPage7.TabIndex = 6;
-            this.tabPage7.Text = "parallel 3";
+            this.tabPage7.Text = "parallel 4";
             this.tabPage7.UseVisualStyleBackColor = true;
             // 
             // label35
@@ -916,7 +916,7 @@
             this.tabPage8.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage8.Size = new System.Drawing.Size(768, 409);
             this.tabPage8.TabIndex = 7;
-            this.tabPage8.Text = "parallel 4";
+            this.tabPage8.Text = "parallel 5";
             this.tabPage8.UseVisualStyleBackColor = true;
             // 
             // pictureBox1

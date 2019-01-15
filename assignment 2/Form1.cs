@@ -19,6 +19,7 @@ namespace assignment_2
 
         private void button1_Click(object sender, EventArgs e)
         {
+            // this code enables the resistors to add themselves together.
             try
             {
                 double r1 = double.Parse(textBox1.Text);
@@ -38,6 +39,7 @@ namespace assignment_2
 
         private void button2_Click(object sender, EventArgs e)
         {
+            
             try
             {
                 double r1 = double.Parse(textBox4.Text);
