@@ -39,7 +39,7 @@ namespace assignment_2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            // this code enables the resistors to mulitply on top and add on the bottom
             try
             {
                 double r1 = double.Parse(textBox4.Text);
@@ -59,6 +59,7 @@ namespace assignment_2
 
         private void button3_Click(object sender, EventArgs e)
         {
+            // this enables both resistors to add together
             try
             {
                 double r1 = double.Parse(textBox6.Text);
@@ -75,6 +76,7 @@ namespace assignment_2
 
         private void button4_Click(object sender, EventArgs e)
         {
+            // this code enables all 4 resistors add together
             try
             {
                 double r1 = double.Parse(textBox8.Text);
@@ -93,6 +95,7 @@ namespace assignment_2
 
         private void button5_Click(object sender, EventArgs e)
         {
+            // this code enables all 5 resistors to add together
             try
             {
                 double r1 = double.Parse(textBox12.Text);
@@ -113,6 +116,7 @@ namespace assignment_2
 
         private void button6_Click(object sender, EventArgs e)
         {
+            // this code enables 3 resistors to add together after being divided by 1
             try
             {
                 double r1 = double.Parse(textBox17.Text);
@@ -129,6 +133,7 @@ namespace assignment_2
 
         private void button7_Click(object sender, EventArgs e)
         {
+            // this code enables 4 resistors to add together after being divided by 1
             try
             {
                 double r1 = double.Parse(textBox20.Text);
@@ -146,6 +151,7 @@ namespace assignment_2
 
         private void button8_Click(object sender, EventArgs e)
         {
+            // this code enables 5 resistors to add together after being divided by 1
             try
             {
                 double r1 = double.Parse(textBox24.Text);
